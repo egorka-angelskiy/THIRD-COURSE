@@ -1,1 +1,1 @@
-# 3D-Course
+# Third-Course
