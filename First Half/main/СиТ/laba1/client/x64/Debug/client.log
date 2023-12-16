@@ -1,3 +1,0 @@
-﻿  main.cpp
-D:\Учеба\СиТ\laba1\client\main.cpp(28,18): warning C4101: msg_size: неиспользованная локальная переменная
-  client.vcxproj -> D:\Учеба\СиТ\laba1\client\x64\Debug\client.exe

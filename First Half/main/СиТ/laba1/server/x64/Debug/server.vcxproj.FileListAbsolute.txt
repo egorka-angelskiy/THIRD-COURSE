@@ -1,2 +1,0 @@
-D:\Учеба\СиТ\Laba 1\server\x64\Debug\server.exe
-D:\Учеба\СиТ\laba1\server\x64\Debug\server.exe
