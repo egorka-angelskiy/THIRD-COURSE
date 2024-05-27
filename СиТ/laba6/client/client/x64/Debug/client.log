@@ -1,3 +1,0 @@
-﻿  client.cpp
-D:\Учеба\СиТ\laba6\client\client.cpp(72,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  client.vcxproj -> D:\Учеба\СиТ\laba6\client\x64\Debug\client.exe
