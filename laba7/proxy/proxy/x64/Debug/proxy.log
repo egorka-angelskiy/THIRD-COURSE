@@ -1,0 +1,5 @@
+﻿  proxy.cpp
+D:\Учеба\СиТ\laba7\proxy\socket_functions.h(46,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "proxy.cpp")
+  
+  proxy.vcxproj -> D:\Учеба\СиТ\laba7\proxy\x64\Debug\proxy.exe
