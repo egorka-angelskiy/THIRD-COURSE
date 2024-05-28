@@ -1,5 +1,0 @@
-﻿  server.cpp
-D:\Учеба\СиТ\laba7\server\Socket_functions.h(44,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  (компиляция исходного файла "server.cpp")
-  
-  server.vcxproj -> D:\Учеба\СиТ\laba7\server\x64\Debug\server.exe
